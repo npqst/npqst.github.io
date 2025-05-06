@@ -11,35 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* DPhil Statistics, University of Oxford, 2021-25
+  * PhD student in the Oxford Protein Informatics Group (supervised by Dr. Matthew Raybould, Prof. Yee Whye Teh, and Prof. Charlotte Deane)
+  * Thesis: Deep learning methods for T-cell receptor structures and specificity
+* MEng Bioengineeering (1st Class Honours), Imperial College London, 2015-19
+* Abitur & Int’l Baccaleaureate, German School London, 2009-15
 
-Work experience
+
+Research Experience
+=====
+* DPhil candidate in Statistics, University of Oxford, 2021-present
+* Post-graduate research post at the University of Stuttgart, 2020-21.
+* Masters in Engineering Imperial College London, 2015-2019
+
+
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Quantitative ML Researcher Internship, OxFORD Asset Management, Sep.'24-Jan.'25 
+* Postgraduate Research Assistant Uni. of Stuttgart & Max Planck Intelligent Systems, Jun '20-Jun '21 
+* Machine Learning Engineer, Gestalt Robotics, Nov ’19-Apr ’20 
+* Intern at Venture Capital Fund InHealth Ventures, Sep.-Oct. 2018 
+* Intern at Medical Device Startup Pathfinder Ltd. (previously Stent Tek Ltd.), Jul-Sep ’18
+* Intern at Engineering Consultancy Cambridge Design Partnership, Jun.-Sep. 2017 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Languages
+  * English
+  * German
+  * conversational French.
+* Keywords
+  * Data science, deep learning, machine learning, computational bioinformatics, immunology, protein structures, paper writing, science communication, unit testing, T-cell receptors, finance
+* Programming
+  * Python, pytorch, tensorboard, biopython, unittest, flask, ReactJS, C
+
 
 Publications
 ======
@@ -59,6 +67,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership experience
 ======
-* Currently signed in to 43 different slack teams
+* President – Oxford Wom*n in Computer Science Society, 2022-23
+* Founder – ITO app, 2020
