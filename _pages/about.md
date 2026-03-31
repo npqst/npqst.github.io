@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! 
 
-I am a final year DPhil student in the Department for Statistics at the University of Oxford.
+I am a researcher in the Department for Statistics at the University of Oxford, having recently submitted my DPhil.
 My research focuses on developing and applying deep learning methods for protein structures, with a particular focus on T-cell receptor structures. 
 I'm part of the [Oxford Protein Informatics Group](https://opig.stats.ox.ac.uk/), and am supervised by Prof. Charlotte Deane, Dr. Matthew Raybould and Prof. Yee Whye Teh. 
 
