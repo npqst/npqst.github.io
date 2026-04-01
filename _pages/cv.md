@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* DPhil Statistics, University of Oxford, 2021-25
+* DPhil Statistics, University of Oxford, 2021-26
   * PhD student in the Oxford Protein Informatics Group (supervised by Dr. Matthew Raybould, Prof. Yee Whye Teh, and Prof. Charlotte Deane)
-  * Thesis: Deep learning methods for T-cell receptor structures and specificity
+  * Thesis: Machine-learning and structural modelling of T-cell receptors and TCR:pMHC interfaces
 * MEng Bioengineeering (1st Class Honours), Imperial College London, 2015-19
 * Abitur & Int’l Baccaleaureate, German School London, 2009-15
 
 
 Research Experience
 =====
-* DPhil candidate in Statistics, University of Oxford, 2021-present
+* Postdoctoral researcher funded by OpenBind, University of Oxford, Jan. '26-present,
+* DPhil candidate in Statistics, University of Oxford, 2021-2026
 * Post-graduate research post at the University of Stuttgart, 2020-21.
 * Masters in Engineering Imperial College London, 2015-2019
 
@@ -28,6 +29,7 @@ Research Experience
 Professional experience
 ======
 
+* Quantitative ML Researcher Internship, G-Research, Jun.'25-Sep.'25 
 * Quantitative ML Researcher Internship, OxFORD Asset Management, Sep.'24-Jan.'25 
 * Postgraduate Research Assistant Uni. of Stuttgart & Max Planck Intelligent Systems, Jun '20-Jun '21 
 * Machine Learning Engineer, Gestalt Robotics, Nov ’19-Apr ’20 
